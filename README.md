@@ -5,9 +5,8 @@ Acest repository conține materialele pentru lucrarea "Compararea teoretică și
 ## Conținut
 
 - `paper/`: Lucrarea în format LaTeX
-- `scripts/`: Scripturi Python pentru analiza experimentală și generarea graficelor
-- `results/`: Rezultatele experimentelor și figurile generate
-- `benchmarks/`: Script pentru descărcarea benchmark-urilor SATLIB
+- `scripts/`: Scripturi Python pentru  generarea graficelor
+- `results/`: Figurile figurile generate
 
 ## Structură
 
